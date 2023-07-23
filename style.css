@@ -1,0 +1,25 @@
+img{
+    width:200px;
+    height:220px;
+    border-radius:50%;
+    overflow:hiddden;
+}
+table{
+    color:blue;
+}
+body{
+    background-color:antiquewhite;
+}
+h1{
+    font-family:fangsong;
+    background-color:blanchedalmond;
+}
+a{
+    text-decoration:none;
+}
+td{
+    color:black;
+}
+h2{
+    background-color:blanchedalmond;
+}
